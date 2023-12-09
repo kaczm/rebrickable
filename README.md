@@ -1,1 +1,1 @@
-https://kaczm.github.io./
+https://kaczm.github.io/rebrickable/
