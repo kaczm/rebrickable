@@ -43,7 +43,7 @@ W sekcji opisane są działania wykonywane na surowych danych takie jak wczytywa
 
 Wczytanie danych dokonuje się w następujący sposób:
 
-```{r wczytanie-danych, echo=TRUE, cache=TRUE}
+```{r wczytanie-danych, echo=TRUE}
 setwd("dane")
 colors <- read.csv("colors.csv")
 elements <- read.csv("elements.csv")
